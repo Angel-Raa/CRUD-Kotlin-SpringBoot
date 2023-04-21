@@ -12,14 +12,14 @@ PostgreSQL: Es un sistema de gestión de bases de datos relacional de código ab
 ### Instalación y configuración:
 
 - Clonar el repositorio:
-'git clone https://github.com/Angel-Raa/CRUD-Kotlin-SpringBoot.git'
+git clone 'https://github.com/Angel-Raa/CRUD-Kotlin-SpringBoot.git'
 
-Configurar la base de datos PostgreSQL:
+### Configurar la base de datos PostgreSQL:
 
 Crear una base de datos PostgreSQL.
 Configurar las credenciales de acceso a la base de datos en el archivo "application.properties" ubicado en la ruta "/src/main/resources".
 Ejecutar la aplicación:
 
-Desde la línea de comandos, navegar hasta la carpeta del proyecto y ejecutar el comando:
+### Desde la línea de comandos, navegar hasta la carpeta del proyecto y ejecutar el comando:
 
-'./mvnw spring-boot:run 
+'./mvnw spring-boot:run ' 
